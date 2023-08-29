@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivanshi Gupta.
 - 👀 I’m interested in Web Development.
 - 🌱 Currently learning various aspects of Web Development including frontend and backend.
-- 💞️ I’m looking to collaborate on projects which match my skillset.
+- 💞️ I’m looking to collaborate on projects which match my skillset and help me to expand my skillset pool.
 - 📫 Reach me on Linkedin :- https://www.linkedin.com/in/shivanshi-gupta-6474a4244/.
 
 <!---
